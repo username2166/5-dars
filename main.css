@@ -1,0 +1,34 @@
+.container{
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+}
+.header{
+    display: flex;
+}
+.header-ul{
+    display: flex;
+    margin-right: 319px;
+}
+.header-ul-li{
+    list-style-type: none;
+    margin-right: 20px;
+    color: #285193;
+}
+.header-ul-li-span{
+    width: 258px;
+    height: 21px;
+    color: #7A7A7A;
+}
+.header-img-lupa{
+    margin-right: 39px;
+}
+.header-img-flagrus{
+    margin-right: 2px;
+}
+.header-h6-ru{
+    margin-right: 31px;
+}
+.header-img-icon{
+    background-color: red;
+}
